@@ -43,10 +43,10 @@ From your command line, first clone Dev Portfolio:
 
 ```bash
 # Clone the repository
-$ git clone https://github.com/mayankagarwal09/dev-portfolio
+$ git clone https://github.com/lunatics-tech/react-portfolio-template
 
 # Move into the repository
-$ cd dev-portfolio
+$ cd react-portfolio-template
 
 # Remove the current origin repository
 $ git remote remove origin
