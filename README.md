@@ -545,17 +545,13 @@ Once you finish your setup. You need to put your website online!
 
 I highly recommend to use [Vercel](https://vercel.app) because it is super easy.
 
-## Notable Portfolios made using this template
-
-- [Mayank Agarwal](https://mayankagarwal09.com)
-
 ## Authors
 
-- **Mayank Agarwal** - [https://github.com/mayankagarwal09](https://github.com/mayankagarwal09)
+- **Zento** - [https://github.com/MrZento](https://github.com/MrZento)
 
 ## Support
 
-If you find a bug, feel free to [open an issue](https://github.com/mayankagarwal09/dev-portfolio/issues) in this repository.
+If you find a bug, feel free to [open an issue](https://github.com/Lunatics-Tech/React-Portfolio-Template/issues) in this repository.
 
 ## License 📄
 
